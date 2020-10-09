@@ -89,8 +89,9 @@ I have recently shifted my focus on cloud technologies and DevOps tools and look
 
 <ul>
   <li><h4>Project Name : ServerlessWeb Application on AWS</h4> 
-      <h4> Description : A serverless webapplication hosted on S3 for CRUD Operations which allows users to retrieve and insert data to Employee Table. On creation of a new employee, an E-Mail would be sent using the SNS. Lambda Functions were used to for the logic and API Gateway was used for exposing the APIs.</h4> 
-      <h4>Technology used : API Gateway, S3, Lambda, DynamoDB</h4>
+      <h4> Description : A serverless webapplication hosted on S3 for CRUD Operations which allows users to retrieve and insert data to Employee Table. On creation of a new employee, an E-Mail would be sent using the SES. Lambda Functions were used to for the logic and API Gateway was used for exposing the APIs.</h4>
+      <br>
+      <h4>Technology used : API Gateway, S3, Lambda, DynamoDB, SES</h4>
 
   </li>
 </ul>
